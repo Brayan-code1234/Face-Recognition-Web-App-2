@@ -1,0 +1,27 @@
+body{
+    color: red;
+    background: royalblue;
+    }
+    
+    .heading{
+        width: 80%;
+        font-size: 22px;
+    }
+    
+    #camera{
+        border: 2px;
+        height: 300px;
+        width: 350px;
+    }
+    
+    .name_of_familymember{
+        color: blueviolet;
+    }
+    
+    #result_familymember_name{
+        color: crimson;
+    }
+    
+    #result_familymember_accuracy{
+        color: gold;
+    }
